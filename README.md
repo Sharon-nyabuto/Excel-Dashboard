@@ -29,9 +29,7 @@ The products below had highly discounted prices at above 50% but very low rating
 Recommendations 
 *	Consider an incentive to motivate customers to provide feedback after receiving their products.
 *	Review the discount allocation strategy as the analysis shows that even with high discount prices, customer engagement and satisfaction were still low. 
-*	Focus on product quality improvement especially for products with high discounts and low ratings.
-  <img width="1083" height="645" alt="image" src="https://github.com/user-attachments/assets/4c2cd8a5-d7b1-48c9-878f-f13b78567894" />
- 
+*	Focus on product quality improvement especially for products with high discounts and low ratings. 
 
 ## Data Cleaning Process
 1.	Replacing missing values in the reviews and ratings columns with null. 
